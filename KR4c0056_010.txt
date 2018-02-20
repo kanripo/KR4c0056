@@ -6,7 +6,11 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
 #+PROPERTY: FILE SB04n0374-010歐陽行周文集-卷第十.
+
+# SB1_0707-190.png
+# page missing
 <pb:KR4c0056_SBCK_010-1a>¶
+# SB1_0707-191.png
 　方爲丈夫禀太和曰人子不包羞不痛心行道之人也虚¶
 　中胷中有心者以予此辰之意如何哉悢悢悽悽渾渾迷¶
 　迷飮觴以若荼視春光其如秋周秦九軌之道吳楚千里¶
